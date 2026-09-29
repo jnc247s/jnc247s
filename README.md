@@ -1,4 +1,4 @@
-# Welcome-
+# Welcome
 Welcome to my Github
 
 My name is Jacob Cohen
