@@ -35,3 +35,32 @@ I'm building an AWS security assessment platform that turns cloud configuration 
 [**Source & setup**](https://github.com/jnc247s/cloud-security-automation) · [**Architecture**](https://github.com/jnc247s/cloud-security-automation/blob/main/ARCHITECTURE.md) · [**Roadmap**](https://github.com/jnc247s/cloud-security-automation/blob/main/ROADMAP.md)
 
 
+
+### 🏒 [BiscuitBudget](https://biscuitbudget.com) — Coming Soon
+
+**Hockey equipment discovery and price comparison**  
+`In Development` · `Private Source Code`
+
+> Precision gear engineered for your game. Priced for your wallet.
+
+I’m building **BiscuitBudget**, a platform designed to help hockey players find equipment that fits their game and their budget. It brings together detailed product specifications, exact-variant comparisons, and retailer offers in a clean, player-focused experience—making it easier to compare the right gear, not just similar product names.
+
+**What I’m building**
+
+- **Precise equipment comparisons:** Variant-aware matching that accounts for details such as size, handedness, flex, and other product-specific specifications.
+- **A reliable product catalog:** Structured product data, validated imports, automated matching, and human review to keep retailer listings connected to the correct equipment.
+- **A more personalized shopping experience:** A product roadmap that includes price tracking, alerts, and recommendations based on a player’s profile, preferences, and budget.
+
+**Tech stack:** `Next.js` · `TypeScript` · `PostgreSQL / Supabase` · `Vercel` · `Cloudflare`
+
+**Current status — October 2026:**  
+Actively developing the first release. The core catalog, variant selection, offer matching, and listing-review workflows are implemented and tested locally. Current work focuses on production readiness, final validation, and obtaining authorized retailer data access ahead of a private beta. Live retailer pricing is not yet available, and the deployed website does not yet reflect the full application.
+
+**Created and developed by Jacob Cohen.** The application’s source code remains private, with this profile serving as a public introduction as the project moves toward launch.
+
+[**Website**](https://biscuitbudget.com) · **Public launch:** Coming soon — no release date announced.
+
+---
+
+
+
