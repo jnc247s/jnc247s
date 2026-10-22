@@ -28,7 +28,18 @@ I'm building an AWS security assessment platform that turns cloud configuration 
 - **Secure investigation:** OIDC/JWT authentication, role and capability checks, and a read-only React/TypeScript dashboard for exploring findings and supporting evidence.
 - **Engineering validation:** Backend, PostgreSQL integration, frontend, and Chromium/Firefox browser tests, with automated linting and container builds in GitHub Actions.
 
-**Tech stack:** `Python` · `AWS / boto3` · `FastAPI` · `PostgreSQL` · `React / TypeScript` · `Docker` · `GitHub Actions`
+**Tech stack:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS / boto3" title="AWS / boto3" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" />
+</p>
 
 **In progress:** Core assessments and the read-only dashboard are implemented. Current work focuses on completing the human-approved remediation workflow and its browser interface. The remediation worker is disabled by default and tested offline; live remediation and production validation remain ahead.
 
@@ -36,29 +47,36 @@ I'm building an AWS security assessment platform that turns cloud configuration 
 
 
 
-### 🏒 [BiscuitBudget](https://biscuitbudget.com) — Coming Soon
+### [BiscuitBudget](https://biscuitbudget.com)
 
-**Hockey equipment discovery and price comparison**  
-`In Development` · `Private Source Code`
+[![Status: In Development](https://img.shields.io/badge/status-in%20development-d97706)](https://biscuitbudget.com)
+![Source: Private](https://img.shields.io/badge/source-private-64748b)
 
-> Precision gear engineered for your game. Priced for your wallet.
+I'm building **BiscuitBudget**, a hockey equipment discovery and price-comparison platform designed to help players find gear that fits their game and their budget. The goal is to bring detailed product specifications, exact-variant comparisons, and retailer offers together in one clean, player-focused experience.
 
-I’m building **BiscuitBudget**, a platform designed to help hockey players find equipment that fits their game and their budget. It brings together detailed product specifications, exact-variant comparisons, and retailer offers in a clean, player-focused experience—making it easier to compare the right gear, not just similar product names.
+**Project highlights**
 
-**What I’m building**
+- **Exact-variant comparisons:** Equipment matching that accounts for size, handedness, flex, and other product-specific specifications so players can compare the right gear—not just similar product names.
+- **Reliable catalog workflows:** Structured product data, validated imports, automated matching, and human review to connect retailer listings to the correct equipment.
+- **Player-focused roadmap:** Price tracking, alerts, and personalized gear recommendations based on a player's profile, preferences, and budget.
+- **Engineering validation:** Linting, strict TypeScript checks, unit tests, database integration tests, and browser testing to validate functionality before release.
 
-- **Precise equipment comparisons:** Variant-aware matching that accounts for details such as size, handedness, flex, and other product-specific specifications.
-- **A reliable product catalog:** Structured product data, validated imports, automated matching, and human review to keep retailer listings connected to the correct equipment.
-- **A more personalized shopping experience:** A product roadmap that includes price tracking, alerts, and recommendations based on a player’s profile, preferences, and budget.
+**Tech stack:**
 
-**Tech stack:** `Next.js` · `TypeScript` · `PostgreSQL / Supabase` · `Vercel` · `Cloudflare`
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="40" height="40" />
+</p>
 
-**Current status — October 2026:**  
-Actively developing the first release. The core catalog, variant selection, offer matching, and listing-review workflows are implemented and tested locally. Current work focuses on production readiness, final validation, and obtaining authorized retailer data access ahead of a private beta. Live retailer pricing is not yet available, and the deployed website does not yet reflect the full application.
+**In progress — October 2026:** The core catalog, variant selection, offer matching, and listing-review workflows are implemented and tested locally. Current work focuses on production readiness, final validation, and authorized retailer data access ahead of a private beta. The application is not yet beta-ready, live retailer pricing is not available, and the deployed website does not yet reflect all local work.
 
-**Created and developed by Jacob Cohen.** The application’s source code remains private, with this profile serving as a public introduction as the project moves toward launch.
+**Created and developed by Jacob Cohen.** The application source code remains private; this profile provides a public overview as the project moves toward launch.
 
-[**Website**](https://biscuitbudget.com) · **Public launch:** Coming soon — no release date announced.
+[**Website**](https://biscuitbudget.com) · **Public launch: Coming soon**
 
 ---
 
