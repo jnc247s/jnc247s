@@ -3,14 +3,14 @@
   <!-- Greeting & Headline -->
   <samp>
     <h1>👋 Hi, I'm Jacob Cohen</h1>
-    <h3>Senior at Missouri State University🐻</h3>
+    <h3>Senior at Missouri State University</h3>
     <p>Studying Information Technology/Cybersecurity</p>
     <p>I enjoy learning new things about coding and working on new cool projects</p>
   </samp>
 
 
 <p align="center">
-  <h2>🎯 Featured Projects</h2>
+  <h2> Featured Projects</h2>
 </p>
 
 ### [Cloud Security Control Plane](https://github.com/jnc247s/cloud-security-automation)
